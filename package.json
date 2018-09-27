@@ -1,0 +1,12 @@
+{
+  "name": "017_JavaScript_TypeWriter_Effect",
+  "version": "1.0.0",
+  "description": "> Fill in ...",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Kevin Zhang",
+  "license": "ISC"
+}
