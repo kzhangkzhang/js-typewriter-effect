@@ -4,7 +4,17 @@
 
 ## Install/Configure/Deploy
 
-`>npm`
+I deployed this site to both github page and netlify.com
+
+### Netlify deployment
+
+`>npm install -g netlify-cli`
+`>netlify-cli deploy`
+
+### Github Page deployment
+
+`>npm install -g gh-pages`
+`>npm run deploy`
 
 ## Resources/Dependencies
 

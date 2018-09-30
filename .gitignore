@@ -4,3 +4,6 @@ node_modules/
 # Kevin's own docs
 *.docx
 /archive
+
+# netlify
+.netlify
